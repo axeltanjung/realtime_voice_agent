@@ -1,4 +1,4 @@
-# Real-Time RAG Voice Agent
+# Real-Time RAG Voice Agents
 
 Powered by **Cartesia**, this project leverages real-time Retrieval-Augmented Generation (RAG) to create an intelligent voice agent.
 
